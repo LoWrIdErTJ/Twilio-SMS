@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <!--Switches-->
+  <CopyAttributes Enabled="true" />
+  <UnionDuplicates Enabled="false" />
+  <Debug Enabled="1" />
+  <Internalize Enabled="false" />
+  <MergeXml Enabled="false" />
+  <!--Signing-->
+  <Sign Enabled="false" Delay="false"></Sign>
+  <!--Logging-->
+  <Log Enabled="false"></Log>
+  <!--Assemblies-->
+  <Assemblies>
+    <Assembly>C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twilio SMS\http post project\bin\Debug\RestSharp.dll</Assembly>
+    <Assembly>C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twilio SMS\http post project\bin\Debug\Twilio.Api.dll</Assembly>
+    <Assembly>C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twilio SMS\http post project\bin\Debug\TwilioSMS.dll</Assembly>
+    <Primary>C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twilio SMS\http post project\bin\Debug\TwilioSMS.dll</Primary>
+  </Assemblies>
+  <!--Output-->
+  <OutputAssembly>C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twilio SMS\http post project\bin\Debug\Twilio Plugin\TwilioSMS_.dll</OutputAssembly>
+  <!--.NET Framework-->
+  <Framework>.NET Framework 4.5 Full</Framework>
+  <!--Merge Engine-->
+  <Engine Name="ILMerge" />
+</Settings>

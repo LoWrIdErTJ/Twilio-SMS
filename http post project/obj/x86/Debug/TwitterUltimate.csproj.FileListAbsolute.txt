@@ -1,0 +1,7 @@
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twitter\http post project\bin\Debug\TwitterUltimate.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twitter\http post project\bin\Debug\TwitterUltimate.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twitter\http post project\obj\x86\Debug\TwitterUltimate.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twitter\http post project\obj\x86\Debug\TwitterUltimate.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twitter\http post project\obj\x86\Debug\TwitterUltimate.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twitter\http post project\obj\x86\Debug\TwitterUltimate.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Twitter\http post project\obj\x86\Debug\TwitterUltimate.pdb
